@@ -1,2 +1,1 @@
-# bioinformatics-rosalind
-Bioinformatics BIOL-5340-001
+Harshil Watts 1002248670 BIOL5340-001
